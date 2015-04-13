@@ -1,5 +1,5 @@
 # Systemikon/INTERACT
-This folder contains code (written in R) for the protein-protein interaction gene-pair annotation track.
+This folder contains code (written in R) for the protein-protein interaction gene-pair annotation track, as part of a larger project aimed at elucidating biogical systems from molecular data. 
 # Introduction
 The interact track uses protein interaction data to annotate a list of genes with pairwise interactions, and outputs results in a gene-to-gene format.
 #Libraries
