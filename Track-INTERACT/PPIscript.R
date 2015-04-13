@@ -43,7 +43,7 @@ if (! require(iRefR)) {
 }
 
 # NOTE:  You need some mechanism to determine the species you are working
-# with; I'll just hard-code human here for now
+# with; henceforth we will limit to humans
 taxID <- "9606"
 taxo  <- "taxid:9606(Homo sapiens)"
 
